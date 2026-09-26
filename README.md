@@ -1,5 +1,5 @@
 ```javascript
-export const webDeveloper = {
+export const softwareEngineer = {
   name: 'Ruslan Butov',
   location: 'San Francisco Bay Area',
   position: 'Senior Software Engineer',
